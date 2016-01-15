@@ -11,7 +11,7 @@
 public class GitBaby {
 
     public static void main(String[] args) {
-        String str = "";
+        String str = "sfsdfasfd";
         if (str == null) {
             System.out.println("");
         }
