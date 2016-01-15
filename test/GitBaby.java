@@ -16,6 +16,16 @@ public class GitBaby {
             System.out.println("");
         }
         System.out.println("");
+        System.out.println("");
+
     }
+
+    /**
+     *
+     */
+    public static void getTest(){
+        System.out.println("");
+    }
+
 
 }
